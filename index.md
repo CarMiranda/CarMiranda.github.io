@@ -1,6 +1,6 @@
-Hi! My name is Carlos Miranda. I am a Research Engineer.<br />
-I come from El Salvador :el_salvador: but live in France :fr:<br />  
-I mostly work on Computer Vision and Signal Processing applied to industrial use-cases. Hence I focus on topics like Edge AI, Lifelong Learning and Explainable AI.<br />
+Hi! My name is **Carlos Miranda**. I am a **Research Engineer**.<br /><br />
+I come from El Salvador :el_salvador: but live in France :fr:<br /><br />  
+I mostly work on Computer Vision and Signal Processing applied to industrial use-cases. Hence I focus on topics like Edge AI, Lifelong Learning and Explainable AI.<br /><br />
 
 In this site you will find:
 - [About me](https://carmiranda.github.io/me.html) :boom:
